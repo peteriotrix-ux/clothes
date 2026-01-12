@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200">
+  <rect width="100%" height="100%" fill="#fff5fb"/>
+  <g transform="translate(150,120)">
+    <rect width="900" height="900" rx="28" fill="#fff"/>
+    <circle cx="450" cy="420" r="160" fill="#fff0f6" />
+    <text x="450" y="760" font-family="Inter, Arial" font-size="44" fill="#9b2f4a" text-anchor="middle">Floral Dress</text>
+  </g>
+</svg>

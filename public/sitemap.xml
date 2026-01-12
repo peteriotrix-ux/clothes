@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/</loc><lastmod>2026-01-12</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://example.com/about.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/privacy-policy.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/disclaimer.html</loc><lastmod>2026-01-12</lastmod></url>
+
+  <url><loc>https://example.com/products/classic-white-tee.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/products/denim-jacket.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/products/slim-fit-jeans.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/products/linen-shirt.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/products/knit-sweater.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/products/athleisure-hoodie.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/products/floral-dress.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/products/leather-belt.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/products/wool-coat.html</loc><lastmod>2026-01-12</lastmod></url>
+  <url><loc>https://example.com/products/summer-shorts.html</loc><lastmod>2026-01-12</lastmod></url>
+</urlset>
